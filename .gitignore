@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ```text
     venv/
     __pycache__/
     *.pyc
     .env
+=======
+```text
+    venv/
+    __pycache__/
+    *.pyc
+    .env
+>>>>>>> 667ecb4fd9cd6f34823c016bd99af87203892847
     ```
